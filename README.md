@@ -1,2 +1,2 @@
 # osto-videos
-Ordinary- shared-to
+Ordinary-shared-to videos.
